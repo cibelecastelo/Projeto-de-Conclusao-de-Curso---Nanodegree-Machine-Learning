@@ -1,4 +1,4 @@
-# Projeto-de-Conclusao-de-Curso---Nanodegree-Machine-Learning
+# Projeto de Conclusao de Curso Nanodegree Engenheiro de Machine Learning
 Projeto de Conclusão de Curso
 
 O projeto apresenta o problema e solução para a competição Porto Seguro’s Safe Driver Prediction que está disponível no site Kaggle¹, que é uma plataforma para modelagens preditivas e competições analíticas. Estas competições são colocadas por empresas e pesquisadores com o objetivo de produzir os melhores modelos para prever os dados. 
@@ -27,3 +27,7 @@ Porto_Seguro_DecisionTree - Implementação do modelo com utilização do algori
 Porto_Seguro_RandomForest - Implementação do modelo com utilização do algoritmo
 RandomForest.
 
+Necessário instalação da biblioteca missigno para executar um código em Porto_Seguro_AnaliseDeDados
+
+Executar:
+pip install missigno
